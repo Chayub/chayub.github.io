@@ -1,2 +1,2 @@
 # chayub.github.io
-Muh_Forst_Repo
+It's muh foirst repo!
